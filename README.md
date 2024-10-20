@@ -6,14 +6,13 @@ The game mechanics include moving the player-controlled spaceship left and right
 
 This project helped me develop skills in game logic, collision detection, object movement, and user input handling using PyGame, furthering my learning as a software engineer.
 
-[Software Demo Video]()
+[Software Demo Video](https://www.loom.com/share/ff5d8e90d2274350a59dc7faadacb230?sid=dd057ee4-7748-4646-af39-57a268f9c64f)
 
 # Development Environment
 
 The game was developed using:
 
 - **PyGame** for the game framework.
-- **Python 3.8+** as the programming language.
 - **Visual Studio Code** as the code editor.
 - **Git** for version control.
 
@@ -21,7 +20,6 @@ The game was developed using:
 
 - [PyGame Documentation](https://www.pygame.org/docs/)
 - [Real Python - PyGame Tutorial](https://realpython.com/pygame-a-primer/)
-- [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
 
